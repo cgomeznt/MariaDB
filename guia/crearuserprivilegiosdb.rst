@@ -41,8 +41,7 @@ Para que sean efectivos los nuevos permisos asignados debes terminar con el sigu
 
   mysql> FLUSH PRIVILEGES;
   
-Verifica que tu nuevo usuario tenga los permisos correctos
------------------------------------------------------------
+Verifica que tu nuevo usuario tenga los permisos correctos::
 
   mysql> SHOW GRANTS FOR 'myuser'@localhost;     
   +--------------------------------------------------------------+ 
