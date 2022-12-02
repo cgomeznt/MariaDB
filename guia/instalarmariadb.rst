@@ -7,7 +7,8 @@ Configurar los repositorios EPEL
 Abrimos un terminal y añadimos las herramientas necesarias al sistema::
 
 	$ dnf -y install epel-release yum-utils
-  Configurar los repositorios para MariaDB
+	
+Configurar los repositorios para MariaDB
 +++++++++++++++++++++++++++++++++++++++
 
 Si te interesa, puedes añadir el repositorio para la última versión estable, MariaDB 10.6, o tal vez MariaDB 10.5. Para ello crearemos un nuevo archivo de repositorio, por ejemplo para la versión 10.6 (si te interesa otra versión, sustituye a continuación 10.6 por 10.x, según corresponda)::
