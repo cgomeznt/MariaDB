@@ -1,5 +1,5 @@
 # MariaDB
 MariaDB Database
 
-* [Instalar MariaDB](guias/instalarmariadb.rst)
-* [Crear usuario y sus privilegios en una BD](guias/crearuserprivilegiosdb.rst)
+* [Instalar MariaDB](guia/instalarmariadb.rst)
+* [Crear usuario y sus privilegios en una BD](guia/crearuserprivilegiosdb.rst)
